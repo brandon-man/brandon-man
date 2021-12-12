@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding.
 - 🌱 I’m currently learning HTML, CSS, Javascript, React.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me brandon.man.coding@gmail.com
+- 📫 How to reach me nybrandonman@gmail.com
 
 <!---
 brandoncoding/brandoncoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
