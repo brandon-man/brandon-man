@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brandoncoding
+- 👋 Hi, I’m Brandon!
 - 🌱 I like to build websites with Next.js and Chakra UI. Currently learning Solidity on the side.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me nybrandonman@gmail.com
