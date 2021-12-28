@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon!
 - 🌱 I like to build websites with Next.js and Chakra UI. 
-- 🧐 I'm also interested in Web3.
+- 🧐 I'm currently delving into Web 3.0
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me nybrandonman@gmail.com
 
