@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Brandon!
-- 🌱 I like to build websites with Next.js and Chakra UI. 
-- 🧐 I'm currently delving into Web 3.0
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me nybrandonman@gmail.com
+### Hi there 👋
+
+#### I'm a Full-Stack Developer currently based in Los Angeles.
+
+##### NOW
+
+- ✨ Working on a e-commerce website to solidify my frontend and backend knowledge 
+
+##### ABOUT
+
+- 🏫 I'm currently completing Fullstack Academy
+- 🌱 Interested in learning more about Web 3.0 and expanding my tech knowledge (I'm looking at you GraphQL and Prisma)
+- 📫 You can reach me at nybrandonman@gmail.com
+- ⚡️ Hobbies: Video games and brushing up on my Japanese skills (日本語で会話しましょうか？)
 
 <!---
 brandoncoding/brandoncoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
