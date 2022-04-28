@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working on a e-commerce website to solidify my frontend and backend knowledge 
+- ✨ Working on a Discord-like chat app written in Typescript and built with Next.js, Cassandra and GraphQL.
 
 ##### ABOUT
 
