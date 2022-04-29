@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working on a Discord-like chat app written in Typescript and built with Next.js, Cassandra and GraphQL.
+- ✨ Working on a Discord-like chat app written in Typescript and built with Next.js, Prisma and GraphQL.
 
 ##### ABOUT
 
