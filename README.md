@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🚀 Creating Web3 dapps using Solidity
+- 🚀 Creating Web3 dapps with Solidity
 - ✨ Working on a Discord-like chat app written in Typescript and built with Next.js, Prisma and GraphQL.
 
 ##### ABOUT
