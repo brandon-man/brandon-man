@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🚀 Creating Web3 dapps with Solidity
-- ✨ Data structures and algorithims grind
+- ✨ Grinding data structures and algorithims 
 
 ##### ABOUT
 
