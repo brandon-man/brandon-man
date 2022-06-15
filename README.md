@@ -5,12 +5,12 @@
 ##### NOW
 
 - 🚀 Creating Web3 dapps with Solidity
-- ✨ Working on a Discord-like chat app written in Typescript and built with Next.js, Prisma and GraphQL.
+- ✨ Data structures and algorithims grind
 
 ##### ABOUT
 
-- 🏫 I'm currently completing Fullstack Academy
-- 🌱 Interested in learning more about Web 3.0 and expanding my tech knowledge (I'm looking at you GraphQL and Prisma)
+- 🏫 I'm currently on hunt for a software engineering position
+- 🌱 Interested in learning more about Web 3.0 and competitive programming
 - 📫 You can reach me at nybrandonman@gmail.com
 - ⚡️ Hobbies: Video games and brushing up on my Japanese skills (日本語で会話しましょうか？)
 
