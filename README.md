@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer currently based in Los Angeles.
+#### I'm a software engineer currently based in Los Angeles.
 
 ##### NOW
 
