@@ -9,7 +9,7 @@
 
 ##### ABOUT
 
-- 🏫 I'm currently looking at opportunities for a software engineer
+- 🏫 I'm currently looking for software engineer opportunities
 - 🌱 Interested in learning more about Web 3.0 and competitive programming
 - 📫 You can reach me at nybrandonman@gmail.com
 - ⚡️ Hobbies: Video games and brushing up on my Japanese skills (日本語で会話しましょうか？)
