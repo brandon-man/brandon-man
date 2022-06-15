@@ -5,7 +5,7 @@
 ##### NOW
 
 - 🚀 Creating Web3 dapps with Solidity
-- ✨ Grinding data structures and algorithims 
+- ✨ Grinding Leetcode
 
 ##### ABOUT
 
