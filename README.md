@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🚀 Creating Web3 dapps with Solidity
+- 🚀 Secret project
 - ✨ Grinding Leetcode
 
 ##### ABOUT
