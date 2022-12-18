@@ -11,7 +11,7 @@
 
 - 🌱 Interested in learning more about Web 3.0 and competitive programming
 - 📫 You can reach me at nybrandonman@gmail.com
-- ⚡️ Hobbies: Video games and brushing up on my Japanese skills (日本語で会話しましょうか？)
+- ⚡️ Hobbies: Video games and breaking stuff (software)
 
 <!---
 brandoncoding/brandoncoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
