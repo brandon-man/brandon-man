@@ -9,7 +9,7 @@
 
 ##### ABOUT
 
-- 🌱 Interested in learning more about Web 3.0 and competitive programming
+- 🌱 Interested in learning more about Web 3.0 and DevOps
 - 📫 You can reach me at nybrandonman@gmail.com
 - ⚡️ Hobbies: Video games and breaking stuff (software)
 
