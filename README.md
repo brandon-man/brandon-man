@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-#### I'm a software engineer currently based in Los Angeles.
-
-##### NOW
-
-- 🚀 Secret project
-- ✨ Grinding Leetcode
+#### I'm a software engineer based in New York.
 
 ##### ABOUT
 
